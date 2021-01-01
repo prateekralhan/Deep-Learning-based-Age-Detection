@@ -49,8 +49,29 @@ python detect_age_video.py --face face_detector --age age_detector
 
 ## Outputs:
 
-![1](https://user-images.githubusercontent.com/29462447/103445094-02295280-4c96-11eb-8da1-31d8de63a699.png)
-![2](https://user-images.githubusercontent.com/29462447/103445098-06557000-4c96-11eb-8d96-a0cf05f9410d.png)
-![3](https://user-images.githubusercontent.com/29462447/103445104-0eadab00-4c96-11eb-92a5-6f881cd6e6b3.png)
-![4](https://user-images.githubusercontent.com/29462447/103445106-153c2280-4c96-11eb-990c-83a2e21eef12.png)
-![5](https://user-images.githubusercontent.com/29462447/103445109-166d4f80-4c96-11eb-8446-17f5ceed2af8.png)
+<p align="center">
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/103445094-02295280-4c96-11eb-8da1-31d8de63a699.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103445094-02295280-4c96-11eb-8da1-31d8de63a699.png"/> 
+</kbd>
+
+&nbsp;
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/103445098-06557000-4c96-11eb-8d96-a0cf05f9410d.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103445098-06557000-4c96-11eb-8d96-a0cf05f9410d.png"/> 
+</kbd>
+
+&nbsp;
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/103445104-0eadab00-4c96-11eb-92a5-6f881cd6e6b3.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103445104-0eadab00-4c96-11eb-92a5-6f881cd6e6b3.png"/> 
+</kbd>
+
+&nbsp;
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/103445106-153c2280-4c96-11eb-990c-83a2e21eef12.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103445106-153c2280-4c96-11eb-990c-83a2e21eef12.png"/> 
+</kbd>
+
+&nbsp;
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/103445109-166d4f80-4c96-11eb-8446-17f5ceed2af8.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103445109-166d4f80-4c96-11eb-8446-17f5ceed2af8.png"/> 
+</kbd>
+
+</p>
