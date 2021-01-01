@@ -56,11 +56,6 @@ python detect_age_video.py --face face_detector --age age_detector
 
 &nbsp;
 <kbd>
-<img src="https://user-images.githubusercontent.com/29462447/103445098-06557000-4c96-11eb-8d96-a0cf05f9410d.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103445098-06557000-4c96-11eb-8d96-a0cf05f9410d.png"/> 
-</kbd>
-
-&nbsp;
-<kbd>
 <img src="https://user-images.githubusercontent.com/29462447/103445104-0eadab00-4c96-11eb-92a5-6f881cd6e6b3.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/103445104-0eadab00-4c96-11eb-92a5-6f881cd6e6b3.png"/> 
 </kbd>
 
