@@ -1,4 +1,5 @@
-# Deep-Learning-based-Age-Detection [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+# Deep Learning based Age Detection [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 Age detection is mainly the process of automatically discerning the age of a person solely from their face's photgraph. :smile: Age detection is generally implemented as a two-stage process:
 * **Stage #1:** 
 Detect faces in the input image/video stream
